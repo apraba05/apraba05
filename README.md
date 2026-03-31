@@ -1,6 +1,4 @@
-```bash
-* Welcome to Ashan Code interface *
-```
+<p align="center">
 
 ```
  █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗
@@ -11,50 +9,56 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-```
-Ashan Code is powered by curiosity, engineering discipline,
-and a focus on building scalable cloud platforms and tooling.
+</p>
 
-Mission status: ACTIVE
-Learning mode: ALWAYS ON
-Shipping frequency: CONTINUOUS
-```
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=900&lines=ashan@github:~$+boot;Initializing+interface...;Loading+profile...;Ready.;ashan@github:~$+profile;Incoming+Software+Engineer+Intern+@+Rivian;Software+Engineering+Student+@+Western+Engineering;Cloud+%7C+Platform+%7C+Backend+%7C+Automation;ashan@github:~$+status;Always+learning.+Always+building." />
+</p>
+
+---
 
 ```bash
-> profile
+ashan@github:~$ whoami
+```
+
+Incoming Software Engineer Intern @ Rivian
 Software Engineering Student @ Western Engineering
-Cloud & Platform Engineering Focus
-Backend • Infrastructure • Automation • AI Tooling
-```
+Focused on cloud infrastructure, backend systems, and developer tooling.
+
+---
 
 ```bash
-> tech_stack --core
+ashan@github:~$ tech_stack
+```
+
 Cloud:        AWS · Terraform · Docker · Kubernetes · Ansible
 Languages:    Python · Go · Java · SQL · Bash
-Automation:   Agentic workflows · LLM tooling · Cloud pipelines
 Tooling:      Linux · Git · CI/CD · Grafana · Vault
-```
+Automation:   Agentic workflows · LLM-powered tooling
+
+---
 
 ```bash
-> currently_building
+ashan@github:~$ currently_building
+```
+
 • Cloud automation infrastructure
 • Backend services & CLI tooling
 • AI-assisted developer platforms
-```
+
+---
 
 ```bash
-> hobbies
-✈️ Aviation
-🏀 Basketball
-🚀 Shipping projects
+ashan@github:~$ connect
 ```
+
+LinkedIn → https://linkedin.com/in/ashanp05
+GitHub   → https://github.com/apraba05
+
+---
 
 ```bash
-> connect --open
-LinkedIn  → linkedin.com/in/ashanp05
-GitHub    → github.com/apraba05
+ashan@github:~$ status
 ```
 
-```
-Press Enter to explore repositories...
-```
+Always learning. Always building.
