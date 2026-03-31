@@ -1,29 +1,60 @@
-# Hi, I'm Ashan 👋
+```bash
+* Welcome to Ashan Code interface *
+```
 
-I'm a **Software Engineering student at Western Engineering** with a strong passion for learning, self-improvement, and building impactful software. I enjoy working across backend systems, cloud infrastructure, and automation, and I’m always looking to deepen my technical skills through hands-on projects.
+```
+ █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║
+███████║███████╗███████║███████║██╔██╗ ██║
+██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║
+██║  ██║███████║██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-I’m especially interested in **cloud and platform engineering**, where I can build scalable, reliable systems and developer tooling that solve real problems.
+```
+Ashan Code is powered by curiosity, engineering discipline,
+and a focus on building scalable cloud platforms and tooling.
 
-When I’m not coding, you’ll usually find me **flying planes** or **pushing new projects to GitHub**—and when I step away from the screen, I’m often on the basketball court.
+Mission status: ACTIVE
+Learning mode: ALWAYS ON
+Shipping frequency: CONTINUOUS
+```
 
----
+```bash
+> profile
+Software Engineering Student @ Western Engineering
+Cloud & Platform Engineering Focus
+Backend • Infrastructure • Automation • AI Tooling
+```
 
-## 🔧 What I Work With
-- **Cloud & Infrastructure:** AWS, Terraform, Ansible, Docker, Kubernetes  
-- **Languages:** Python, Go, Java, SQL, Bash  
-- **AI & Automation:** Agentic workflows, LLM-powered tooling, cloud automation  
-- **Tools:** Linux, Git, CI/CD, Grafana, Vault
+```bash
+> tech_stack --core
+Cloud:        AWS · Terraform · Docker · Kubernetes · Ansible
+Languages:    Python · Go · Java · SQL · Bash
+Automation:   Agentic workflows · LLM tooling · Cloud pipelines
+Tooling:      Linux · Git · CI/CD · Grafana · Vault
+```
 
----
+```bash
+> currently_building
+• Cloud automation infrastructure
+• Backend services & CLI tooling
+• AI-assisted developer platforms
+```
 
-## 🚀 What I’m Building
-- Cloud automation and infrastructure tooling  
-- Backend services and CLI tools  
-- AI-assisted developer and cloud platforms  
+```bash
+> hobbies
+✈️ Aviation
+🏀 Basketball
+🚀 Shipping projects
+```
 
----
+```bash
+> connect --open
+LinkedIn  → linkedin.com/in/ashanp05
+GitHub    → github.com/apraba05
+```
 
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/ashanp05
-- GitHub: https://github.com/apraba05
-
+```
+Press Enter to explore repositories...
+```
