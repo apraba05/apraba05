@@ -17,6 +17,7 @@ import os
 import re
 import sys
 import math
+import time
 import requests
 
 USERNAME  = "apraba05"
@@ -100,9 +101,8 @@ def fetch_contributions():
 def fetch_loc(repos):
     """
     Sum lines added/deleted across all repos by iterating contributor stats.
-    GitHub caches this; first call may return 202 (computing) — we retry up to 5 times.
+    GitHub caches this; first call may return 202 (computing) — we retry up to 6 times.
     """
-    import time
     added, deleted = 0, 0
     for repo in repos:
         name = repo["full_name"]
