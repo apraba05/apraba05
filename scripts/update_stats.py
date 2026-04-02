@@ -100,16 +100,17 @@ def fetch_contributions():
 def fetch_loc(repos):
     """
     Sum lines added/deleted across all repos by iterating contributor stats.
-    GitHub caches this; first call may return 202 (computing) — we retry once.
+    GitHub caches this; first call may return 202 (computing) — we retry up to 5 times.
     """
+    import time
     added, deleted = 0, 0
     for repo in repos:
         name = repo["full_name"]
         url  = f"https://api.github.com/repos/{name}/stats/contributors"
-        for attempt in range(2):
+        for attempt in range(6):
             r = requests.get(url, headers=HEADERS, timeout=30)
             if r.status_code == 202:
-                import time; time.sleep(3)
+                time.sleep(5 * (attempt + 1))
                 continue
             if r.status_code != 200:
                 break
@@ -128,7 +129,7 @@ def update_id(content, element_id, new_value):
     """Replace the text inside <tspan id="ELEMENT_ID">VALUE</tspan>."""
     return re.sub(
         rf'(id="{re.escape(element_id)}">)[^<]*(</tspan>)',
-        rf'\g<1>{re.escape(new_value)}\g<2>',
+        lambda m: m.group(1) + new_value + m.group(2),
         content
     )
 
