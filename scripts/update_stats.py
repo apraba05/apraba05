@@ -115,6 +115,8 @@ def fetch_loc(repos):
             if r.status_code != 200:
                 break
             for contributor in r.json():
+                if contributor is None:
+                    continue
                 if contributor.get("author", {}).get("login", "").lower() == USERNAME.lower():
                     for week in contributor.get("weeks", []):
                         added   += week.get("a", 0)
