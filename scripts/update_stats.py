@@ -19,6 +19,7 @@ import sys
 import math
 import time
 import requests
+from datetime import datetime, timezone
 
 USERNAME  = "apraba05"
 TOKEN     = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
@@ -79,23 +80,56 @@ def fetch_all_repos():
 
 
 def fetch_contributions():
-    """Total commits via GraphQL contributionsCollection."""
-    q = """
+    """Total commits via GraphQL contributionsCollection (summed across all years)."""
+    # Get account creation date and current-year contrib repos count
+    q_user = """
     query($login: String!) {
       user(login: $login) {
+        createdAt
         contributionsCollection {
-          totalCommitContributions
           totalRepositoriesWithContributedCommits
         }
       }
     }
     """
-    data = graphql(q, {"login": USERNAME})
-    cc = data.get("user", {}).get("contributionsCollection", {})
-    return (
-        cc.get("totalCommitContributions", 0),
-        cc.get("totalRepositoriesWithContributedCommits", 0),
+    data = graphql(q_user, {"login": USERNAME})
+    user_data = data.get("user", {})
+    created_at = user_data.get("createdAt", "")
+    contrib_repos = user_data.get("contributionsCollection", {}).get(
+        "totalRepositoriesWithContributedCommits", 0
     )
+
+    # Determine year range from account creation to now
+    if created_at:
+        created_year = datetime.fromisoformat(created_at.replace("Z", "+00:00")).year
+    else:
+        created_year = datetime.now(timezone.utc).year
+    current_year = datetime.now(timezone.utc).year
+
+    # Query each year's commit contributions and sum them
+    q_commits = """
+    query($login: String!, $from: DateTime!, $to: DateTime!) {
+      user(login: $login) {
+        contributionsCollection(from: $from, to: $to) {
+          totalCommitContributions
+        }
+      }
+    }
+    """
+    total_commits = 0
+    for year in range(created_year, current_year + 1):
+        from_date = f"{year}-01-01T00:00:00Z"
+        to_date   = f"{year}-12-31T23:59:59Z"
+        year_data = graphql(q_commits, {"login": USERNAME, "from": from_date, "to": to_date})
+        year_commits = (
+            year_data.get("user", {})
+                     .get("contributionsCollection", {})
+                     .get("totalCommitContributions", 0)
+        )
+        print(f"  {year}: {year_commits} commits")
+        total_commits += year_commits
+
+    return total_commits, contrib_repos
 
 
 def fetch_loc(repos):
