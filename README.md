@@ -58,6 +58,20 @@ hobbies:
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -77,17 +91,6 @@ hobbies:
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,ansible,vim&theme=dark&perline=5"/>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=apraba05&show_icons=true&hide_border=true&bg_color=0B1120&title_color=3FFFA2&icon_color=4F8EF7&text_color=8FA3C8&ring_color=3FFFA2&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=apraba05&hide_border=true&background=0B1120&ring=3FFFA2&fire=4F8EF7&currStreakLabel=3FFFA2&sideLabels=8FA3C8&currStreakNum=ffffff&sideNums=ffffff&dates=8fa3c8" width="49%" alt="GitHub Streak"/>
 
 </div>
 
@@ -113,40 +116,6 @@ hobbies:
 <td><strong>SWE Intern</strong> — InnSys · Toronto, ON</td>
 </tr>
 </table>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:apraba05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=3fffa2&labelColor=141e35" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/ashanp05">
-  <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=4f8ef7&labelColor=141e35" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/apraba05">
-  <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=141e35" alt="GitHub"/>
-</a>
-
-</div>
 
 <br/>
 
