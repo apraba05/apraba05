@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fffa2,50:4f8ef7,100:a78bfa&height=220&section=header&text=Ashan%20Prapaharan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%E2%80%A2%20Western%20University&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fffa2,100:a78bfa&height=200&section=header&text=Ashan%20Prapaharan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%40%20Western%20University&descAlignY=60&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -150,4 +150,4 @@ hobbies:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:4f8ef7,100:3fffa2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:3fffa2&height=120&section=footer" width="100%"/>
