@@ -1,17 +1,153 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img src="dark_mode.svg" alt="ashan@prapaharan" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fffa2,50:4f8ef7,100:a78bfa&height=220&section=header&text=Ashan%20Prapaharan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%E2%80%A2%20Western%20University&descAlignY=62&descAlign=50" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=800&color=3FFFA2&center=true&vCenter=true&width=750&lines=Incoming+SWE+Intern+%40+Rivian+%F0%9F%9A%97;Cloud+%26+Platform+Engineer+%E2%98%81%EF%B8%8F;Backend+Systems+%26+CLI+Builder+%F0%9F%94%A7;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Go;Always+Learning+%E2%80%94+Always+Building" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=apraba05&style=for-the-badge&color=141e35&labelColor=0b1120&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+---
+
+## About
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+name:      Ashan Prapaharan
+handle:    apraba05
+degree:    BEng Software Engineering (Co-Op)
+school:    Western University · London, ON
+upcoming:  SWE Intern @ Rivian  ← 2025–2026
+shell:     bash · zsh
+editor:    VS Code · IntelliJ IDEA
+os:        macOS Sequoia · Linux
+
+certs:
+  - AWS Certified Cloud Practitioner (CLF-C02)
+  - HashiCorp Terraform Associate (003)
+
+interests:
+  - Cloud & Platform Engineering
+  - Backend Systems & CLI Tooling
+  - AI-Assisted Developer Tooling
+  - Infrastructure Automation
+
+hobbies:
+  - Flying planes ✈️
+  - Playing basketball 🏀
+```
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apraba05&layout=compact&hide_border=true&bg_color=0B1120&title_color=3FFFA2&text_color=8FA3C8&langs_count=8" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,go,java,bash,postgres&theme=dark&perline=5"/>
+
+<br/>
+
+**Cloud & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux&theme=dark&perline=5"/>
+
+<br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,ansible,vim&theme=dark&perline=5"/>
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=apraba05&show_icons=true&hide_border=true&bg_color=0B1120&title_color=3FFFA2&icon_color=4F8EF7&text_color=8FA3C8&ring_color=3FFFA2&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=apraba05&hide_border=true&background=0B1120&ring=3FFFA2&fire=4F8EF7&currStreakLabel=3FFFA2&sideLabels=8FA3C8&currStreakNum=ffffff&sideNums=ffffff&dates=8fa3c8" width="49%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Experience
+
+<table>
+<tr>
+<td align="center" width="100px"><strong>2025–26</strong></td>
+<td><strong>SWE Intern</strong> — Rivian &nbsp;<code>upcoming</code></td>
+</tr>
+<tr>
+<td align="center"><strong>2025</strong></td>
+<td><strong>SWE Intern</strong> — Ciena · Ottawa, ON</td>
+</tr>
+<tr>
+<td align="center"><strong>2024</strong></td>
+<td><strong>SWE Intern</strong> — MPAC · Toronto, ON</td>
+</tr>
+<tr>
+<td align="center"><strong>2023</strong></td>
+<td><strong>SWE Intern</strong> — InnSys · Toronto, ON</td>
+</tr>
+</table>
+
+---
+
+## Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/apraba05/apraba05/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:apraba05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=3fffa2&labelColor=141e35" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ashanp05">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=4f8ef7&labelColor=141e35" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/apraba05">
+  <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=141e35" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:4f8ef7,100:3fffa2&height=120&section=footer" width="100%"/>
