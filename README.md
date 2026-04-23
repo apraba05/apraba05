@@ -85,20 +85,37 @@ hobbies:
 
 <table>
 <tr>
-<td align="center" width="100px"><strong>2025–26</strong></td>
-<td><strong>SWE Intern</strong> — Rivian &nbsp;<code>upcoming</code></td>
+<td width="36px" align="center">🚗</td>
+<td>
+  <strong>Rivian</strong> &nbsp;
+  <img src="https://img.shields.io/badge/upcoming-3fffa2?style=flat-square&labelColor=0b1120&color=3fffa2&logoColor=0b1120" alt="upcoming"/>
+  <br/>
+  <sub>Software Engineering Intern &nbsp;·&nbsp; Vancouver, BC &nbsp;·&nbsp; 2025–2026</sub>
+</td>
 </tr>
+<tr><td colspan="2"><img src="https://img.shields.io/badge/--%7C-141e35?style=flat-square&labelColor=141e35&color=141e35" width="2"/></td></tr>
 <tr>
-<td align="center"><strong>2025</strong></td>
-<td><strong>SWE Intern</strong> — Ciena · Ottawa, ON</td>
+<td align="center">📡</td>
+<td>
+  <strong>Ciena</strong><br/>
+  <sub>Software Engineering Intern &nbsp;·&nbsp; Ottawa, ON &nbsp;·&nbsp; 2025</sub>
+</td>
 </tr>
+<tr><td colspan="2"><img src="https://img.shields.io/badge/--%7C-141e35?style=flat-square&labelColor=141e35&color=141e35" width="2"/></td></tr>
 <tr>
-<td align="center"><strong>2024</strong></td>
-<td><strong>SWE Intern</strong> — MPAC · Toronto, ON</td>
+<td align="center">🏛️</td>
+<td>
+  <strong>MPAC</strong><br/>
+  <sub>Software Engineering Intern &nbsp;·&nbsp; Toronto, ON &nbsp;·&nbsp; 2024</sub>
+</td>
 </tr>
+<tr><td colspan="2"><img src="https://img.shields.io/badge/--%7C-141e35?style=flat-square&labelColor=141e35&color=141e35" width="2"/></td></tr>
 <tr>
-<td align="center"><strong>2023</strong></td>
-<td><strong>SWE Intern</strong> — InnSys · Toronto, ON</td>
+<td align="center">💻</td>
+<td>
+  <strong>InnSys</strong><br/>
+  <sub>Software Engineering Intern &nbsp;·&nbsp; Toronto, ON &nbsp;·&nbsp; 2023</sub>
+</td>
 </tr>
 </table>
 
