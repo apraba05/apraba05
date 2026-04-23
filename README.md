@@ -21,7 +21,7 @@ name:      Ashan Prapaharan
 handle:    apraba05
 degree:    BEng Software Engineering (Co-Op)
 school:    Western University · London, ON
-upcoming:  SWE Intern @ Rivian  ← 2025–2026
+upcoming:  SWE Intern @ Rivian  ← 2026
 shell:     bash · zsh
 editor:    VS Code · IntelliJ IDEA
 os:        macOS Sequoia · Linux
@@ -83,7 +83,7 @@ hobbies:
 
 ## Experience
 
-🚗 &nbsp;**Rivian** &nbsp;`2025–2026` &nbsp;![](https://img.shields.io/badge/upcoming-3fffa2?style=flat-square&color=3fffa2&labelColor=0b1120)
+🚗 &nbsp;**Rivian** &nbsp;`2026` &nbsp;![](https://img.shields.io/badge/upcoming-3fffa2?style=flat-square&color=3fffa2&labelColor=0b1120)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering Intern · Vancouver, BC
 
 📡 &nbsp;**Ciena** &nbsp;`2025`
