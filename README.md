@@ -18,10 +18,6 @@
 
 ## About
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```yaml
 name:      Ashan Prapaharan
 handle:    apraba05
@@ -46,15 +42,6 @@ hobbies:
   - Flying planes ✈️
   - Playing basketball 🏀
 ```
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apraba05&layout=compact&hide_border=true&bg_color=0B1120&title_color=3FFFA2&text_color=8FA3C8&langs_count=8" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
