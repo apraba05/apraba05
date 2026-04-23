@@ -83,41 +83,17 @@ hobbies:
 
 ## Experience
 
-<table>
-<tr>
-<td width="36px" align="center">🚗</td>
-<td>
-  <strong>Rivian</strong> &nbsp;
-  <img src="https://img.shields.io/badge/upcoming-3fffa2?style=flat-square&labelColor=0b1120&color=3fffa2&logoColor=0b1120" alt="upcoming"/>
-  <br/>
-  <sub>Software Engineering Intern &nbsp;·&nbsp; Vancouver, BC &nbsp;·&nbsp; 2025–2026</sub>
-</td>
-</tr>
-<tr><td colspan="2"><img src="https://img.shields.io/badge/--%7C-141e35?style=flat-square&labelColor=141e35&color=141e35" width="2"/></td></tr>
-<tr>
-<td align="center">📡</td>
-<td>
-  <strong>Ciena</strong><br/>
-  <sub>Software Engineering Intern &nbsp;·&nbsp; Ottawa, ON &nbsp;·&nbsp; 2025</sub>
-</td>
-</tr>
-<tr><td colspan="2"><img src="https://img.shields.io/badge/--%7C-141e35?style=flat-square&labelColor=141e35&color=141e35" width="2"/></td></tr>
-<tr>
-<td align="center">🏛️</td>
-<td>
-  <strong>MPAC</strong><br/>
-  <sub>Software Engineering Intern &nbsp;·&nbsp; Toronto, ON &nbsp;·&nbsp; 2024</sub>
-</td>
-</tr>
-<tr><td colspan="2"><img src="https://img.shields.io/badge/--%7C-141e35?style=flat-square&labelColor=141e35&color=141e35" width="2"/></td></tr>
-<tr>
-<td align="center">💻</td>
-<td>
-  <strong>InnSys</strong><br/>
-  <sub>Software Engineering Intern &nbsp;·&nbsp; Toronto, ON &nbsp;·&nbsp; 2023</sub>
-</td>
-</tr>
-</table>
+🚗 &nbsp;**Rivian** &nbsp;`2025–2026` &nbsp;![](https://img.shields.io/badge/upcoming-3fffa2?style=flat-square&color=3fffa2&labelColor=0b1120)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering Intern · Vancouver, BC
+
+📡 &nbsp;**Ciena** &nbsp;`2025`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering Intern · Ottawa, ON
+
+🏛️ &nbsp;**MPAC** &nbsp;`2024`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering Intern · Toronto, ON
+
+💻 &nbsp;**InnSys** &nbsp;`2023`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering Intern · Toronto, ON
 
 <br/>
 
