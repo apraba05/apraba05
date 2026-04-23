@@ -6,9 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=800&color=3FFFA2&center=true&vCenter=true&width=750&lines=Incoming+SWE+Intern+%40+Rivian+%F0%9F%9A%97;Cloud+%26+Platform+Engineer+%E2%98%81%EF%B8%8F;Backend+Systems+%26+CLI+Builder+%F0%9F%94%A7;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Go;Always+Learning+%E2%80%94+Always+Building" alt="Typing SVG"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=apraba05&style=for-the-badge&color=141e35&labelColor=0b1120&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/>
 
 </div>
 
